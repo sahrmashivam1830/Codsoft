@@ -1,5 +1,6 @@
 TASK 1 (GuessingGame.java)
 : NUMBER GAME
+
 1. Generate a random number within a specified range, such as 1 to 100.
 2. Prompt the user to enter their guess for the generated number.
 3. Compare the user's guess with the generated number and provide feedback on whether the guess
@@ -12,6 +13,7 @@ You can incorporate additional details as follows:
 
 TASK 2 (WordCounter.java)
 : WOrd Counter
+
 1. Prompt the user to enter a text or provide a file to count the words.
 2. Read the input text or file and store it in a string.
 3. Split the string into an array of words using space or punctuation as delimiters.
@@ -26,7 +28,9 @@ You can further enhance the project by adding features such as:
 
  TASK 4 (Main.java)
  :ATM INTERFACE
+ 
 1.Create a class to represent the ATM machine.
+
 2. Design the user interface for the ATM, including options such as withdrawing, depositing, and
 checking the balance.
 
@@ -38,6 +42,6 @@ checkBalance().
 balance.
 
 8. Validate user input to ensure it is within acceptable limits (e.g., sufficient balance for withdrawals).
-9. 
+ 
 10. Display appropriate messages to the user based on their chosen options and the success or failure
 of their transactions
